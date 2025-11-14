@@ -1,0 +1,63 @@
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.csproj.AssemblyReference.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.exe
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.dll.config
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.deps.json
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.runtimeconfig.json
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDesk.B1C76CA9.Up2Date
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\refint\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\HelpDeskApp.genruntimeconfig.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba\obj\Debug\net9.0-windows\ref\HelpDeskApp.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.exe
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.dll.config
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.deps.json
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.runtimeconfig.json
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.csproj.AssemblyReference.cache
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDesk.B1C76CA9.Up2Date
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\refint\HelpDeskApp.dll
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\HelpDeskApp.genruntimeconfig.cache
+C:\Users\Niggas Menores\Desktop\COISAS DO VINNI\CURSOR\PIM4Ba_att1\obj\Debug\net9.0-windows\ref\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.exe
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.dll.config
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.deps.json
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.runtimeconfig.json
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.csproj.AssemblyReference.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDesk.B1C76CA9.Up2Date
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\refint\HelpDeskApp.dll
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.pdb
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\HelpDeskApp.genruntimeconfig.cache
+C:\Users\Vini\Documents\CURSOR\PIM4Ba_att1_BKP\obj\Debug\net9.0-windows\ref\HelpDeskApp.dll
